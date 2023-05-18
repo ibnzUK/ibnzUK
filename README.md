@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ibnzUK/ibnzUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
 
 
 <br />
@@ -40,29 +35,31 @@ I'm a full stack blockchain developer from United Kingdom
 # <div>
   
 <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="Token-Staking-dApp" width="195px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git1.png" />
+  <img alt="Token-Staking-dApp" width="180px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git1.png" />
 </a>
- <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="ibnz | Linkedin" width="195px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git2.png" />
+ <a href="https://github.com/ibnzUK/Smart-Contract-GUI">
+  <img alt="Smart-Contract-GUI" width="180px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git2.png" />
 </a>
-   <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="ibnz | Linkedin" width="195px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git3.png" />
+   <a href="https://github.com/ibnzUK/Weather-vs-CPU">
+  <img alt="Weather-vs-CPU" width="180px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git3.png" />
 </a>
-   <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="ibnz | Linkedin" width="195px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git4.png" />
+   <a href="https://github.com/ibnzUK/Strmdash">
+  <img alt="Strmdash" width="180px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git4.png" />
 </a>
-   <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="ibnz | Linkedin" width="195px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git5.png" />
+   <a href="https://github.com/ibnzUK/ReactCalc">
+  <img alt="ReactCalc" width="180px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git5.png" />
 </a>
 </div>
 
 
 <br />
 <br />
-
+<br />
 <a href="https://twitter.com/ibnzUK">
-  <img align="right" alt="ibnz | Twitter" width="21px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/twitter.png" />
+  <img align="left" alt="ibnz | Twitter" width="21px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/twitter.png" />
 </a>
 <a href="[https://twitter.com/ibnzUK](https://www.linkedin.com/in/justinaskairys/)">
-  <img align="right" alt="ibnz | Linkedin" width="21px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/linkedin.png" />
+  <img align="left" alt="ibnz | Linkedin" width="21px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/linkedin.png" />
 </a>
+<br />
+<br />
