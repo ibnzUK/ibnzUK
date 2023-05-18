@@ -35,19 +35,19 @@ I'm a full stack blockchain developer from United Kingdom
 # <div>
   
 <a href="https://github.com/ibnzUK/Token-Staking-dApp">
-  <img alt="Token-Staking-dApp" width="165px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git1.png" />
+  <img alt="Token-Staking-dApp" width="168px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git1.png" />
 </a>
  <a href="https://github.com/ibnzUK/Smart-Contract-GUI">
-  <img alt="Smart-Contract-GUI" width="165px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git2.png" />
+  <img alt="Smart-Contract-GUI" width="168px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git2.png" />
 </a>
    <a href="https://github.com/ibnzUK/Weather-vs-CPU">
-  <img alt="Weather-vs-CPU" width="165px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git3.png" />
+  <img alt="Weather-vs-CPU" width="168px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git3.png" />
 </a>
    <a href="https://github.com/ibnzUK/Strmdash">
-  <img alt="Strmdash" width="165px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git4.png" />
+  <img alt="Strmdash" width="168px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git4.png" />
 </a>
    <a href="https://github.com/ibnzUK/ReactCalc">
-  <img alt="ReactCalc" width="165px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git5.png" />
+  <img alt="ReactCalc" width="168px" src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/git5.png" />
 </a>
 </div>
 
