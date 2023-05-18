@@ -42,6 +42,7 @@ I'm a full stack blockchain developer from United Kingdom
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <br />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://bard.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/bardAI.png" width="36" height="36" alt="Bard AI"/></a>
 <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/chatgpt.png" width="36" height="36" alt="Open AI"/></a>
@@ -50,7 +51,6 @@ I'm a full stack blockchain developer from United Kingdom
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-<br />
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
@@ -59,6 +59,7 @@ I'm a full stack blockchain developer from United Kingdom
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://www.arweave.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arweave-colored.svg" width="36" height="36" alt="Arweave" /></a>
+  <br />
 <a href="https://etherscan.io/" target="_blank" rel="noreferrer"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/etherscan.png" width="36" height="36" alt="Etherscan"/></a>
 <a href="https://www.infura.io/" target="_blank" rel="noreferrer"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/infura.png" width="36" height="36" alt="Infura"/></a>
 <a href="https://moralis.io/" target="_blank" rel="noreferrer"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/moralis.png" width="36" height="36" alt="Moralis"/></a>
