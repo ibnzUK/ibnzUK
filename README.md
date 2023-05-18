@@ -5,7 +5,7 @@ src="https://img.shields.io/twitter/follow/ibnzuk?logo=twitter&style=for-the-bad
 /></a>
 
 
-Hi 👋 My name is Justinas Kairys
+GM 👋 
 ================================
 
 I'm a full stack blockchain developer from United Kingdom
