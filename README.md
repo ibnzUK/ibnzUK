@@ -8,7 +8,7 @@ src="https://img.shields.io/twitter/follow/ibnzuk?logo=twitter&style=for-the-bad
 GM 👋 
 ================================
 
-I'm a full stack Blockchain Developer from United Kingdom
+Experienced Full stack Blockchain Developer from United Kingdom
 ---------------------------------------------------------
 
 **About me**
