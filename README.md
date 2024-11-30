@@ -8,10 +8,11 @@ src="https://img.shields.io/twitter/follow/ibnzuk?logo=twitter&style=for-the-bad
 GM 👋 
 ================================
 
-Experienced Full stack Blockchain Developer from United Kingdom
+Experienced Full-stack Blockchain Developer from United Kingdom
 ---------------------------------------------------------
 
-Currently Building <a href="https://opendatabay.com" target="_blank" rel="noreferrer">Opendatabay</a> - AI Data Marketplace
+
+Currently Building <a href="https://opendatabay.com" target="_blank">Opendatabay</a> - AI Data Marketplace
 
 ---------------------------------------------------------
 
