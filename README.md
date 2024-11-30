@@ -11,6 +11,10 @@ GM 👋
 Experienced Full stack Blockchain Developer from United Kingdom
 ---------------------------------------------------------
 
+Currently Building <a href="https://opendatabay.com" target="_blank" rel="noreferrer">Opendatabay</a> - AI Data Marketplace
+
+---------------------------------------------------------
+
 **About me**
 
 
@@ -18,7 +22,7 @@ Experienced Full stack Blockchain Developer from United Kingdom
 - 🌱 I’m a big fan of MERN Stack
 - 🌱 In the past I built, Mobile Games and Apps for Android and iOS, Windows and Mac software, Websites, Web Applications, Chrome Extension, Applets, Server Scripts and Smart Contracts (dApps)
 
-- ⚡ Fun fact: My first application was "Phishing Attack Script" written in "mIRC" scripting language to mimic IRC client operator and obtain user cradentials in 2001 (school)
+- ⚡ Fun fact: My first application was "Phishing Attack Script" written in "mIRC" scripting language to mimic IRC client operator and obtain user credentials in 2001 (school)
 
 
 
