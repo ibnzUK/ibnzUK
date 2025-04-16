@@ -19,7 +19,7 @@ Currently Building <a href="https://opendatabay.com" target="_blank">Opendatabay
 **About me**
 
 
-- 🌱 I focus on Web3, AI, Big Data fields
+- 🌱 I focus on AI and Big Data fields
 - 🌱 I’m a big fan of MERN Stack
 - 🌱 In the past I built, Mobile Games and Apps for Android and iOS, Windows and Mac software, Websites, Web Applications, Chrome Extension, Applets, Server Scripts and Smart Contracts (dApps)
 
