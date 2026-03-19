@@ -13,8 +13,8 @@ Founder • Full-Stack Engineer • AI & Data Systems Builder
 United Kingdom 🇬🇧
 ---------------------------------------------------------
 
-Currently Building <a href="https://opendatabay.com" target="_blank">Opendatabay</a> - AI data marketplace focused on LLM training data and data discovery  
-
+Hands on running <a href="https://opendatabay.com" target="_blank">Opendatabay</a> - Licensed
+Data For LLMs, Delivered in Seconds
 ---------------------------------------------------------
 
 **About me**
