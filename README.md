@@ -1,27 +1,29 @@
-
-
-<a href="https://www.twitter.com/ibnzuk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ibnzuk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/justinas_kairys" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/justin?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+<a href="https://www.justinas.ai" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/JUSTINAS.AI-8A2BE2"
+/></a>
 
 GM 👋 
 ================================
 
-Experienced Full-stack Blockchain Developer from United Kingdom
+Founder • Full-Stack Engineer • AI & Data Systems Builder  
+United Kingdom 🇬🇧
 ---------------------------------------------------------
 
-
-Currently Building <a href="https://opendatabay.com" target="_blank">Opendatabay</a> - AI Data Marketplace
+Currently Building <a href="https://opendatabay.com" target="_blank">Opendatabay</a> - AI data marketplace focused on LLM training data and data discovery  
 
 ---------------------------------------------------------
 
 **About me**
 
 
-- 🌱 I focus on AI and Big Data fields
-- 🌱 I’m a big fan of MERN Stack
-- 🌱 In the past I built, Mobile Games and Apps for Android and iOS, Windows and Mac software, Websites, Web Applications, Chrome Extension, Applets, Server Scripts and Smart Contracts (dApps)
+🌱 Founder & technical operator — I build and scale products from 0 → production  
+🌱 Strong background in full-stack engineering, security, distributed systems (DLT), smart contracts, and AI/agent infrastructure  
+🌱 Led teams, advised startups, and worked across product, engineering & strategy  
+🌱 Built and shipped award-winning applications across mobile, web, SaaS, and blockchain platforms
 
 - ⚡ Fun fact: My first application was "Phishing Attack Script" written in "mIRC" scripting language to mimic IRC client operator and obtain user credentials in 2001 (school)
 
