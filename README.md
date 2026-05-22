@@ -94,15 +94,22 @@ Data For LLMs, Delivered in Seconds
 </p>
 
 
-| GitHub Stats | Top Languages |
-|---|---|
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnzUK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnzUK&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibnzUK&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibnzUK&theme=default)](https://git.io/streak-stats)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibnzUK&show_icons=true&theme=buefy&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnzUK&layout=compact&theme=buefy&hide_border=true" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnzUK&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/ibnzUK?style=social)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibnzUK&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnzUK&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibnzUK&color=blue)
+
 
 #### Top Repositories
 
