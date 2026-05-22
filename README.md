@@ -94,8 +94,9 @@ Data For LLMs, Delivered in Seconds
 </p>
 
 
-|| <a href="https://github.com/ibnzuk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnzUK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ibnz github stats" /></a> |   | <a href="https://github.com/ibnzuk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnzuk&layout=compact&theme=buefy&hide_border=true" /></a> ||
-|-| ------------- |--------| ------------- |-|
+| GitHub Stats | Top Languages |
+|---|---|
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnzUK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnzUK&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 #### Top Repositories
