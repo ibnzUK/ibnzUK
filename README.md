@@ -6,7 +6,12 @@ src="https://img.shields.io/twitter/follow/justin?logo=x&style=for-the-badge&col
 src="https://img.shields.io/badge/JUSTINAS.AI-8A2BE2"
 /></a>
 
-GM 👋 
+![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/ibnzUK?style=social)
+
+
+
 ================================
 
 Founder • Full-Stack Engineer • AI & Data Systems Builder  
@@ -100,15 +105,7 @@ Data For LLMs, Delivered in Seconds
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnzUK&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/ibnzUK?style=social)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ibnzUK&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibnzUK&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ibnzUK&color=blue)
 
 
 #### Top Repositories
