@@ -8,11 +8,6 @@ src="https://img.shields.io/badge/JUSTINAS.AI-8A2BE2"
 
 ![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/ibnzUK?style=social)
-
-
-
-================================
 
 Founder • Full-Stack Engineer • AI & Data Systems Builder  
 United Kingdom 🇬🇧
