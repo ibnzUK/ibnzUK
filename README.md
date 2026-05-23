@@ -9,6 +9,59 @@ src="https://img.shields.io/badge/JUSTINAS.AI-8A2BE2"
 ![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
 
 
+---
+
+[
+
+![Twitter Follow](https://img.shields.io/twitter/follow/justin?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+](https://www.twitter.com/justinas_kairys) [
+
+![Website](https://img.shields.io/badge/JUSTINAS.AI-8A2BE2)
+
+](https://www.justinas.ai) 
+
+![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
+
+
+---
+
+[
+
+![Twitter Follow](https://img.shields.io/twitter/follow/justin?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+](https://www.twitter.com/justinas_kairys)
+
+[
+
+![Website](https://img.shields.io/badge/JUSTINAS.AI-8A2BE2)
+
+](https://www.justinas.ai)
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/ibnzUK?style=social)
+
+
+--
+
+| Social | Links |
+|--------|-------|
+| Twitter | [
+
+![Follow](https://img.shields.io/twitter/follow/justin?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
+](https://www.twitter.com/justinas_kairys) |
+| Website | [
+
+![JUSTINAS.AI](https://img.shields.io/badge/JUSTINAS.AI-8A2BE2)
+
+](https://www.justinas.ai) |
+| GitHub | 
+
+![Followers](https://img.shields.io/github/followers/ibnzUK?style=social)
+
+ |
 Founder • Full-Stack Engineer • AI & Data Systems Builder  
 United Kingdom 🇬🇧
 ---------------------------------------------------------
