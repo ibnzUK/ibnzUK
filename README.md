@@ -54,6 +54,11 @@ Data For LLMs, Delivered in Seconds
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
+<a href="https://redis.io/"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/redis.png" width="36" /></a>
+<a href="https://claude.ai/"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/claude.png" width="36" /></a>
+<a href="https://vercel.com/"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/vercel.png" width="36" /></a>
+<a href="https://palantir.com/"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/palantir.png" width="36" /></a>
+<a href="https://n8n.io/"><img src="https://github.com/ibnzUK/ibnzUK/blob/main/assets/n8n.png" width="36" /></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /></a>
