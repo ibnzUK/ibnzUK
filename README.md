@@ -98,7 +98,6 @@ Data For LLMs, Delivered in Seconds
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibnzUK&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ibnzUK&theme=default)](https://git.io/streak-stats)
 
