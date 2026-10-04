@@ -29,7 +29,7 @@ Data For LLMs, Delivered in Seconds
 🌱 Led teams, advised startups, and worked across product, engineering & strategy  
 🌱 Built and shipped award-winning applications across mobile, web, SaaS, and blockchain platforms
 
-- ⚡ Fun fact: My first application was "Phishing Attack Script" written in "mIRC" scripting language to mimic IRC client operator and obtain user credentials in 2001 (school)
+- ⚡ Fun fact: my first program was an mIRC script I wrote at school in 2001
 
 ### Core Engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
